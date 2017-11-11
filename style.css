@@ -9,3 +9,6 @@ header{
   height:100px;
   bottom-border: 1px solid #ccccc;
 }
+header nav{
+  float:right;
+}
